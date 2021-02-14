@@ -1,13 +1,11 @@
 #!/bin/bash
-# Basic while loop
-
 
 dataset=bc
 startclean=true
 nsample=50000
-epochs=5
+epochs=30
 mcsamples=100
-nreps=1
+nreps=4
 
 echo Starting experiment...
 
