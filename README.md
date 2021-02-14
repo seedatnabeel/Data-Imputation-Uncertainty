@@ -4,7 +4,7 @@ This repo presents an approach to modelling uncertainty in data imputation
 
 - It makes use of GAIN (Yoon et al) and a VAE
 - Uses MC Dropout to obatin multiple samples for each imputation (i.e. multiple imputation)
-- Presents a benchmarking frame of metrics to compare uncertainty estimates for data imputation
+- Presents a benchmarking framework of measures to compare uncertainty estimates for data imputation
 
 
 
