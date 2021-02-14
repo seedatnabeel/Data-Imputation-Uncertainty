@@ -15,7 +15,7 @@ This repo presents an approach to modelling uncertainty in data imputation
 
 ## Example usage:
 
-A bash script has been provided to ease reproducing the results, as well as, for ease in running the code
+A bash script has been provided to ease reproducing the results, as well as, for ease in running the code & different experiments
 
 ```
     bash repro.sh
